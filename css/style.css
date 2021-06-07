@@ -8,6 +8,11 @@ body {
     background: url(../images/fundo-site.jpg) repeat;
 }
 
+.page {
+    max-width: 1200px;
+    padding: 2em 3em;
+}
+
 .page-container {
     min-height: 600px;
     background-color: #fff;
