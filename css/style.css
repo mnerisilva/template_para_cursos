@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: url(../images/fundo-site.jpg) repeat;
+}
+
+.page-container {
+    min-height: 600px;
+    background-color: #fff;
+    min-width: 992px;
+    margin: 65px auto;
+}
+
+.carousel-control-next-icon {
+    fill:black !important;
+}
